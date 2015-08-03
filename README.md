@@ -1,2 +1,2 @@
-# guoweilee.github.io
+# lucency.github.io
 personal website
